@@ -733,6 +733,9 @@ export default function Home() {
           <p className="mt-4 text-center text-xs text-gray-300">
             &copy; 2026 東京バストアップサロンガイド
           </p>
+          <p className="mt-3 text-center text-xs text-gray-400">
+            参考: <a href="https://patolaqshe.com/" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:text-emerald-500">パトラクシェ公式サイト</a>
+          </p>
         </div>
       </footer>
     </>
