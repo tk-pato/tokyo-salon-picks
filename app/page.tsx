@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   alternates: {
-    canonical: "https://tokyo-salon-picks.github.io/bust-tokyo/",
+    canonical: "https://tk-pato.github.io/tokyo-salon-picks/",
   },
 };
 
@@ -11,8 +11,8 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://tokyo-salon-picks.github.io/bust-tokyo/",
-      url: "https://tokyo-salon-picks.github.io/bust-tokyo/",
+      "@id": "https://tk-pato.github.io/tokyo-salon-picks/",
+      url: "https://tk-pato.github.io/tokyo-salon-picks/",
       name: "東京都内のバストアップサロンおすすめガイド【2026年最新】エリア別比較",
       description:
         "東京都内のバストアップサロン・育乳エステを徹底比較。銀座・恵比寿・新宿・表参道の人気サロンを料金・口コミ・施術タイプ別に紹介。",
@@ -25,7 +25,7 @@ const jsonLd = {
           "@type": "ListItem",
           position: 1,
           name: "ホーム",
-          item: "https://tokyo-salon-picks.github.io/bust-tokyo/",
+          item: "https://tk-pato.github.io/tokyo-salon-picks/",
         },
         {
           "@type": "ListItem",
